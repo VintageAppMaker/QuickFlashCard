@@ -1,0 +1,398 @@
+[
+  {
+    "front": "Hey, how was your day?",
+    "back": "안녕, 오늘 하루 어땠어?"
+  },
+  {
+    "front": "What are you up to?",
+    "back": "요즘 뭐 하고 지내?"
+  },
+  {
+    "front": "Do you want to hang out this weekend?",
+    "back": "이번 주말에 같이 놀래?"
+  },
+  {
+    "front": "Let's grab some coffee.",
+    "back": "커피 마시러 가자."
+  },
+  {
+    "front": "Wanna watch a movie tonight?",
+    "back": "오늘 밤 영화 볼래?"
+  },
+  {
+    "front": "That sounds fun!",
+    "back": "재밌겠다!"
+  },
+  {
+    "front": "I'm so glad to see you.",
+    "back": "너를 만나서 정말 기뻐."
+  },
+  {
+    "front": "How's your family doing?",
+    "back": "가족들은 잘 지내?"
+  },
+  {
+    "front": "We should catch up soon.",
+    "back": "곧 다시 만나자."
+  },
+  {
+    "front": "What's your plan for the weekend?",
+    "back": "주말에 뭐 할 거야?"
+  },
+  {
+    "front": "I'm free after 6 p.m.",
+    "back": "6시 이후에 시간 돼."
+  },
+  {
+    "front": "Want to go for a walk?",
+    "back": "산책할래?"
+  },
+  {
+    "front": "I missed you!",
+    "back": "너무 보고 싶었어!"
+  },
+  {
+    "front": "Tell me everything!",
+    "back": "무슨 일이 있었는지 다 말해봐!"
+  },
+  {
+    "front": "You won’t believe what happened!",
+    "back": "믿기지 않을 일이 있었어!"
+  },
+  {
+    "front": "That's hilarious!",
+    "back": "진짜 웃기다!"
+  },
+  {
+    "front": "Do you want to come over?",
+    "back": "우리 집에 올래?"
+  },
+  {
+    "front": "Let’s order some food.",
+    "back": "음식 시켜 먹자."
+  },
+  {
+    "front": "I love your outfit!",
+    "back": "옷 너무 예쁘다!"
+  },
+  {
+    "front": "That movie was awesome!",
+    "back": "그 영화 진짜 좋았어!"
+  },
+  {
+    "front": "Let's take a selfie!",
+    "back": "셀카 찍자!"
+  },
+  {
+    "front": "I'm bored. Let's do something!",
+    "back": "심심해. 뭐라도 하자!"
+  },
+  {
+    "front": "Can I borrow your book?",
+    "back": "너 책 좀 빌릴 수 있을까?"
+  },
+  {
+    "front": "Have you heard this song?",
+    "back": "이 노래 들어봤어?"
+  },
+  {
+    "front": "You always make me laugh.",
+    "back": "넌 항상 날 웃게 해."
+  },
+  {
+    "front": "How’s your job going?",
+    "back": "일은 어때?"
+  },
+  {
+    "front": "Let’s celebrate!",
+    "back": "축하하자!"
+  },
+  {
+    "front": "I need some advice.",
+    "back": "조언이 필요해."
+  },
+  {
+    "front": "Can I tell you a secret?",
+    "back": "비밀 하나 말해도 될까?"
+  },
+  {
+    "front": "You’re such a good friend.",
+    "back": "넌 정말 좋은 친구야."
+  },
+  {
+    "front": "Let’s go shopping!",
+    "back": "쇼핑하러 가자!"
+  },
+  {
+    "front": "Do you like spicy food?",
+    "back": "매운 음식 좋아해?"
+  },
+  {
+    "front": "I'm here if you need me.",
+    "back": "필요하면 언제든지 말해."
+  },
+  {
+    "front": "Let’s cook together.",
+    "back": "같이 요리하자."
+  },
+  {
+    "front": "This reminds me of high school.",
+    "back": "이거 고등학교 시절 생각나."
+  },
+  {
+    "front": "You should totally come!",
+    "back": "너 꼭 와야 해!"
+  },
+  {
+    "front": "Thanks for being there for me.",
+    "back": "항상 곁에 있어줘서 고마워."
+  },
+  {
+    "front": "Let’s do a video call.",
+    "back": "영상 통화하자."
+  },
+  {
+    "front": "I can't stop laughing!",
+    "back": "웃음이 멈추질 않아!"
+  },
+  {
+    "front": "You made my day.",
+    "back": "너 덕분에 기분 좋아졌어."
+  },
+  {
+    "front": "Guess what?",
+    "back": "무슨 일 있었는지 알아?"
+  },
+  {
+    "front": "I'm so proud of you!",
+    "back": "정말 자랑스러워!"
+  },
+  {
+    "front": "Let’s go to the beach.",
+    "back": "해변 가자."
+  },
+  {
+    "front": "I'm feeling a bit down.",
+    "back": "좀 우울해."
+  },
+  {
+    "front": "Can you help me with this?",
+    "back": "이거 좀 도와줄 수 있어?"
+  },
+  {
+    "front": "Let’s try something new.",
+    "back": "새로운 거 해보자."
+  },
+  {
+    "front": "I need a break.",
+    "back": "좀 쉬고 싶어."
+  },
+  {
+    "front": "I have great news!",
+    "back": "좋은 소식이 있어!"
+  },
+  {
+    "front": "Do you want to join us?",
+    "back": "같이 할래?"
+  },
+  {
+    "front": "I’ve got your back.",
+    "back": "난 항상 네 편이야."
+  },
+  {
+    "front": "Don’t worry, everything’s fine.",
+    "back": "걱정 마, 다 잘 될 거야."
+  },
+  {
+    "front": "Let’s go for a drive.",
+    "back": "드라이브 가자."
+  },
+  {
+    "front": "You’ll do great!",
+    "back": "너 잘할 거야!"
+  },
+  {
+    "front": "Wanna try that new cafe?",
+    "back": "그 새 카페 가볼래?"
+  },
+  {
+    "front": "You’re so talented!",
+    "back": "넌 정말 재능 있어!"
+  },
+  {
+    "front": "Let’s play a game.",
+    "back": "게임하자."
+  },
+  {
+    "front": "What's your favorite show?",
+    "back": "제일 좋아하는 TV쇼 뭐야?"
+  },
+  {
+    "front": "I can't wait to hang out!",
+    "back": "같이 노는 거 너무 기대돼!"
+  },
+  {
+    "front": "How was your weekend?",
+    "back": "주말 어땠어?"
+  },
+  {
+    "front": "Let's plan a trip!",
+    "back": "여행 계획 세우자!"
+  },
+  {
+    "front": "Want to do something spontaneous?",
+    "back": "즉흥적으로 뭐 해볼래?"
+  },
+  {
+    "front": "Can I ask you something?",
+    "back": "물어봐도 될까?"
+  },
+  {
+    "front": "You're the best!",
+    "back": "너 최고야!"
+  },
+  {
+    "front": "Want to come with me?",
+    "back": "같이 갈래?"
+  },
+  {
+    "front": "I'm so tired today.",
+    "back": "오늘 너무 피곤해."
+  },
+  {
+    "front": "Do you remember that time when…?",
+    "back": "그때 기억나?"
+  },
+  {
+    "front": "You always know what to say.",
+    "back": "넌 항상 적절한 말을 해."
+  },
+  {
+    "front": "Let's take a break.",
+    "back": "쉬었다 가자."
+  },
+  {
+    "front": "Want to go out for dinner?",
+    "back": "저녁 먹으러 나갈래?"
+  },
+  {
+    "front": "Let’s do a movie night.",
+    "back": "영화의 밤 하자."
+  },
+  {
+    "front": "You’ve changed a lot!",
+    "back": "많이 변했네!"
+  },
+  {
+    "front": "How’s everything going?",
+    "back": "요즘 어때?"
+  },
+  {
+    "front": "Let’s go dancing!",
+    "back": "춤추러 가자!"
+  },
+  {
+    "front": "I love talking to you.",
+    "back": "너랑 얘기하는 거 너무 좋아."
+  },
+  {
+    "front": "We should do this more often.",
+    "back": "이런 거 자주 하자."
+  },
+  {
+    "front": "That was a great idea!",
+    "back": "그거 정말 좋은 아이디어였어!"
+  },
+  {
+    "front": "You’re always so kind.",
+    "back": "넌 항상 친절해."
+  },
+  {
+    "front": "I trust you.",
+    "back": "널 믿어."
+  },
+  {
+    "front": "Let’s make some memories.",
+    "back": "추억을 만들자."
+  },
+  {
+    "front": "Can I vent for a second?",
+    "back": "잠깐 하소연해도 돼?"
+  },
+  {
+    "front": "Thanks for listening.",
+    "back": "들어줘서 고마워."
+  },
+  {
+    "front": "You always cheer me up.",
+    "back": "넌 항상 날 힘나게 해."
+  },
+  {
+    "front": "Let’s go hiking this weekend.",
+    "back": "이번 주말에 등산 가자."
+  },
+  {
+    "front": "You should come to the party!",
+    "back": "파티에 꼭 와야 해!"
+  },
+  {
+    "front": "Let’s go on an adventure!",
+    "back": "모험을 떠나자!"
+  },
+  {
+    "front": "We’ve known each other forever.",
+    "back": "우리 진짜 오래됐지."
+  },
+  {
+    "front": "You mean a lot to me.",
+    "back": "넌 내게 정말 소중한 사람이야."
+  },
+  {
+    "front": "What do you want to do today?",
+    "back": "오늘 뭐 하고 싶어?"
+  },
+  {
+    "front": "Want to have a sleepover?",
+    "back": "우리 밤새 놀까?"
+  },
+  {
+    "front": "Do you want to build a playlist together?",
+    "back": "같이 플레이리스트 만들래?"
+  },
+  {
+    "front": "I always have fun with you.",
+    "back": "너랑 있으면 항상 재밌어."
+  },
+  {
+    "front": "Let’s go bowling!",
+    "back": "볼링 치러 가자!"
+  },
+  {
+    "front": "I’m free all day!",
+    "back": "하루 종일 시간 있어!"
+  },
+  {
+    "front": "Tell me your story.",
+    "back": "너 얘기해 줘."
+  },
+  {
+    "front": "You're like family to me.",
+    "back": "넌 내게 가족 같아."
+  },
+  {
+    "front": "Let’s do nothing together.",
+    "back": "같이 아무것도 안 하자."
+  },
+  {
+    "front": "You can always count on me.",
+    "back": "항상 날 믿어도 돼."
+  },
+  {
+    "front": "Want to try cooking together?",
+    "back": "같이 요리해 볼래?"
+  },
+  {
+    "front": "You're amazing just the way you are.",
+    "back": "지금 그대로도 멋져."
+  }
+]

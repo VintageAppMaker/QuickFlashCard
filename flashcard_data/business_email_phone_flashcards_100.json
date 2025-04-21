@@ -1,0 +1,382 @@
+[
+  {
+    "front": "I hope this email finds you well.",
+    "back": "안부 인사를 전합니다."
+  },
+  {
+    "front": "Thank you for your email.",
+    "back": "이메일 주셔서 감사합니다."
+  },
+  {
+    "front": "I am writing to inform you that...",
+    "back": "…을 알리기 위해 메일을 드립니다."
+  },
+  {
+    "front": "Please find the attached file.",
+    "back": "첨부 파일을 확인해 주세요."
+  },
+  {
+    "front": "Let me know if you have any questions.",
+    "back": "질문이 있으시면 알려 주세요."
+  },
+  {
+    "front": "I look forward to your response.",
+    "back": "답변 기다리겠습니다."
+  },
+  {
+    "front": "We appreciate your prompt reply.",
+    "back": "빠른 회신에 감사드립니다."
+  },
+  {
+    "front": "I apologize for the late reply.",
+    "back": "늦은 답변 죄송합니다."
+  },
+  {
+    "front": "Could you please confirm receipt of this email?",
+    "back": "이메일 수신 확인 부탁드립니다."
+  },
+  {
+    "front": "We would like to schedule a meeting.",
+    "back": "회의 일정을 잡고자 합니다."
+  },
+  {
+    "front": "Please let us know your availability.",
+    "back": "가능한 시간을 알려 주세요."
+  },
+  {
+    "front": "I will get back to you shortly.",
+    "back": "곧 다시 연락드리겠습니다."
+  },
+  {
+    "front": "Thank you for your cooperation.",
+    "back": "협조에 감사드립니다."
+  },
+  {
+    "front": "Please review the document attached.",
+    "back": "첨부 문서를 검토해 주세요."
+  },
+  {
+    "front": "I would like to follow up on our previous email.",
+    "back": "이전 메일에 대해 후속 조치하고자 합니다."
+  },
+  {
+    "front": "We apologize for any inconvenience.",
+    "back": "불편을 드려 죄송합니다."
+  },
+  {
+    "front": "Could you clarify your request?",
+    "back": "요청 사항을 명확히 해주시겠어요?"
+  },
+  {
+    "front": "We will send the invoice shortly.",
+    "back": "곧 인보이스를 보내드리겠습니다."
+  },
+  {
+    "front": "Your feedback is highly appreciated.",
+    "back": "피드백을 주셔서 감사합니다."
+  },
+  {
+    "front": "Please let me know if anything is unclear.",
+    "back": "불명확한 점이 있다면 알려 주세요."
+  },
+  {
+    "front": "This is a gentle reminder about...",
+    "back": "…에 대해 다시 한번 상기시켜 드립니다."
+  },
+  {
+    "front": "I am copying my colleague on this email.",
+    "back": "이 메일에 제 동료를 참조로 추가합니다."
+  },
+  {
+    "front": "We would like to request your approval.",
+    "back": "승인을 요청드립니다."
+  },
+  {
+    "front": "Our team is currently reviewing the request.",
+    "back": "저희 팀이 현재 해당 요청을 검토 중입니다."
+  },
+  {
+    "front": "I will update you as soon as possible.",
+    "back": "최대한 빨리 소식 전하겠습니다."
+  },
+  {
+    "front": "We have received your request.",
+    "back": "귀하의 요청을 접수했습니다."
+  },
+  {
+    "front": "The deadline for the project is...",
+    "back": "프로젝트 마감일은 …입니다."
+  },
+  {
+    "front": "Let me clarify the point you mentioned.",
+    "back": "언급하신 내용을 정리해 드리겠습니다."
+  },
+  {
+    "front": "We’re still waiting for the final decision.",
+    "back": "최종 결정을 기다리고 있습니다."
+  },
+  {
+    "front": "We regret to inform you that...",
+    "back": "…을 알려드리게 되어 유감입니다."
+  },
+  {
+    "front": "Let’s arrange a call to discuss this.",
+    "back": "이 사안을 논의하기 위해 통화를 잡죠."
+  },
+  {
+    "front": "Please disregard the previous email.",
+    "back": "이전 메일은 무시해 주세요."
+  },
+  {
+    "front": "Could you please resend the file?",
+    "back": "파일을 다시 보내주시겠어요?"
+  },
+  {
+    "front": "I’m available after 3 p.m.",
+    "back": "오후 3시 이후 가능합니다."
+  },
+  {
+    "front": "Please keep us informed of any updates.",
+    "back": "변경 사항이 있으면 알려 주세요."
+  },
+  {
+    "front": "Let me know your thoughts.",
+    "back": "귀하의 의견을 듣고 싶습니다."
+  },
+  {
+    "front": "We will take it into consideration.",
+    "back": "검토하도록 하겠습니다."
+  },
+  {
+    "front": "Thank you for your continued support.",
+    "back": "지속적인 지원에 감사드립니다."
+  },
+  {
+    "front": "We are working on it.",
+    "back": "현재 작업 중입니다."
+  },
+  {
+    "front": "Please expect a delay due to...",
+    "back": "…로 인해 지연이 예상됩니다."
+  },
+  {
+    "front": "Let’s stay in touch.",
+    "back": "계속 연락하며 지내요."
+  },
+  {
+    "front": "I’ve forwarded your email to the team.",
+    "back": "귀하의 이메일을 팀에 전달했습니다."
+  },
+  {
+    "front": "We will notify you once it is resolved.",
+    "back": "문제가 해결되면 알려드리겠습니다."
+  },
+  {
+    "front": "We are currently investigating the issue.",
+    "back": "현재 문제를 조사 중입니다."
+  },
+  {
+    "front": "The requested changes have been made.",
+    "back": "요청하신 변경 사항을 반영했습니다."
+  },
+  {
+    "front": "Your request has been approved.",
+    "back": "요청이 승인되었습니다."
+  },
+  {
+    "front": "Let me double-check and get back to you.",
+    "back": "확인 후 다시 연락드리겠습니다."
+  },
+  {
+    "front": "We are pleased to inform you that...",
+    "back": "기쁜 소식을 전해드립니다."
+  },
+  {
+    "front": "It was a pleasure working with you.",
+    "back": "함께 일하게 되어 즐거웠습니다."
+  },
+  {
+    "front": "May I speak with Mr. Kim, please?",
+    "back": "김 씨와 통화할 수 있을까요?"
+  },
+  {
+    "front": "This is [Name] from [Company].",
+    "back": "[회사]의 [이름]입니다."
+  },
+  {
+    "front": "I'm calling regarding the recent order.",
+    "back": "최근 주문 건으로 전화 드립니다."
+  },
+  {
+    "front": "Could you hold for a moment?",
+    "back": "잠시 기다려 주시겠어요?"
+  },
+  {
+    "front": "I’ll transfer your call now.",
+    "back": "지금 전화를 연결해 드리겠습니다."
+  },
+  {
+    "front": "He’s not available at the moment.",
+    "back": "그는 지금 자리에 없습니다."
+  },
+  {
+    "front": "Can I take a message?",
+    "back": "메시지를 남기시겠어요?"
+  },
+  {
+    "front": "I’ll make sure he gets the message.",
+    "back": "그에게 메시지를 전달하겠습니다."
+  },
+  {
+    "front": "Could you speak up a little?",
+    "back": "조금 더 크게 말씀해 주시겠어요?"
+  },
+  {
+    "front": "I’m having trouble hearing you.",
+    "back": "잘 들리지 않아요."
+  },
+  {
+    "front": "Can you hear me clearly?",
+    "back": "잘 들리세요?"
+  },
+  {
+    "front": "Let me repeat that.",
+    "back": "다시 말씀드릴게요."
+  },
+  {
+    "front": "Could you spell that, please?",
+    "back": "철자 좀 말씀해 주시겠어요?"
+  },
+  {
+    "front": "Let me check the schedule.",
+    "back": "일정을 확인해 보겠습니다."
+  },
+  {
+    "front": "We’d like to set up a call next week.",
+    "back": "다음 주에 통화를 잡고자 합니다."
+  },
+  {
+    "front": "Is this a good time to talk?",
+    "back": "지금 통화 가능하신가요?"
+  },
+  {
+    "front": "I’ll call you back later.",
+    "back": "나중에 다시 전화 드릴게요."
+  },
+  {
+    "front": "We got disconnected.",
+    "back": "전화가 끊겼네요."
+  },
+  {
+    "front": "I think there’s a poor connection.",
+    "back": "전화 연결이 좋지 않아요."
+  },
+  {
+    "front": "Could you repeat the number?",
+    "back": "번호를 다시 말씀해 주시겠어요?"
+  },
+  {
+    "front": "Thanks for calling.",
+    "back": "전화 주셔서 감사합니다."
+  },
+  {
+    "front": "Let’s schedule a follow-up call.",
+    "back": "후속 통화를 일정 잡아요."
+  },
+  {
+    "front": "When would be a good time to call?",
+    "back": "언제 전화 드리면 좋을까요?"
+  },
+  {
+    "front": "The line is busy.",
+    "back": "통화 중입니다."
+  },
+  {
+    "front": "Can you call back later?",
+    "back": "나중에 다시 전화 주시겠어요?"
+  },
+  {
+    "front": "What’s your extension number?",
+    "back": "내선 번호가 어떻게 되세요?"
+  },
+  {
+    "front": "You’ve reached the voicemail of...",
+    "back": "…의 음성사서함입니다."
+  },
+  {
+    "front": "Please leave a message after the beep.",
+    "back": "삐 소리 후 메시지를 남겨 주세요."
+  },
+  {
+    "front": "I'll get back to you as soon as I can.",
+    "back": "가능한 빨리 연락드릴게요."
+  },
+  {
+    "front": "I’ll ask him to return your call.",
+    "back": "그에게 전화 드리도록 하겠습니다."
+  },
+  {
+    "front": "Can I speak with someone in sales?",
+    "back": "영업부 담당자와 통화할 수 있을까요?"
+  },
+  {
+    "front": "Let me connect you to the right person.",
+    "back": "담당자에게 연결해 드릴게요."
+  },
+  {
+    "front": "He’s on another call right now.",
+    "back": "지금 다른 전화를 받고 있어요."
+  },
+  {
+    "front": "I’ll let him know you called.",
+    "back": "전화 주신 걸 전해드릴게요."
+  },
+  {
+    "front": "Can I get your name and number?",
+    "back": "이름과 전화번호를 알려 주시겠어요?"
+  },
+  {
+    "front": "I’m calling to follow up on our email.",
+    "back": "이메일 후속 건으로 전화 드렸어요."
+  },
+  {
+    "front": "We can’t take your call right now.",
+    "back": "지금은 전화를 받을 수 없습니다."
+  },
+  {
+    "front": "Please try again later.",
+    "back": "나중에 다시 시도해 주세요."
+  },
+  {
+    "front": "The number you dialed is not in service.",
+    "back": "전화를 거신 번호는 없는 번호입니다."
+  },
+  {
+    "front": "Your call is important to us.",
+    "back": "고객님의 전화는 소중합니다."
+  },
+  {
+    "front": "Please stay on the line.",
+    "back": "전화를 끊지 말고 기다려 주세요."
+  },
+  {
+    "front": "This call may be recorded.",
+    "back": "이 통화는 녹음될 수 있습니다."
+  },
+  {
+    "front": "Thank you for holding.",
+    "back": "기다려 주셔서 감사합니다."
+  },
+  {
+    "front": "Let’s confirm the details over the phone.",
+    "back": "전화로 내용을 확인합시다."
+  },
+  {
+    "front": "I’ll email you the details after this call.",
+    "back": "통화 후 이메일로 자세히 보내드릴게요."
+  },
+  {
+    "front": "Feel free to contact me anytime.",
+    "back": "언제든지 연락 주세요."
+  }
+]
