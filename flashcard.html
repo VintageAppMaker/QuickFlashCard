@@ -325,6 +325,42 @@
       alert("카드가 추가되었습니다.");
     }
 
+    window.onload = async function () {
+      try {
+        const response = await fetch('flashcard_data/');
+        if (!response.ok) throw new Error('flashcard_data 디렉토리를 읽을 수 없습니다.');
+
+        const text = await response.text();
+        const parser = new DOMParser();
+        const htmlDoc = parser.parseFromString(text, 'text/html');
+        const links = htmlDoc.querySelectorAll('a[href$=".json"]');
+
+        for (const link of links) {
+          const fileName = link.getAttribute('href');
+          const fileResponse = await fetch(`flashcard_data/${fileName}`);
+          if (!fileResponse.ok) continue;
+
+          const fileContent = await fileResponse.text();
+          try {
+            const deckData = JSON.parse(fileContent);
+            structuredDecks[fileName.replace(/\.json$/, '')] = deckData;
+
+            const option = document.createElement('option');
+            option.value = fileName.replace(/\.json$/, '');
+            option.textContent = fileName.replace(/\.json$/, '');
+            deckSelector.appendChild(option);
+          } catch (error) {
+            console.error(`파일 ${fileName}의 JSON 포맷이 잘못되었습니다.`);
+          }
+        }
+
+        updateStorage();
+        renderDeck();
+      } catch (error) {
+        console.error('덱 데이터를 로드하는 중 오류가 발생했습니다:', error);
+      }
+    };
+
     renderDeck();
   </script>
 </body>
