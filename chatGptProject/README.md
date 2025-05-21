@@ -6,7 +6,7 @@
 ## 1. 사용법 
 
 1. ChatGPT에서 프로젝트를 만든다. 
-2. template.html 파일을 업로드한다. 
+2. [template.html](template.html) 파일을 업로드한다. 
 3. 지침을 아래와 같이 만든다. 
 
 ```markdown 
